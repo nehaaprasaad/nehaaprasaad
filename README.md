@@ -1,5 +1,5 @@
 ### Previously
-<a href="https://github.com/nehaaprasad">old-github-imp-🌟</a> (lost access due to 2FA issue)
+<a href="https://github.com/nehaaprasad">old-github-very-important-🌟</a> (lost access due to 2FA issue)
 
 
 <h1 align="center">Hi, I'm Neha Prasad 👋🍀</h1>
