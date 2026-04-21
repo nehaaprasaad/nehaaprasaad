@@ -21,7 +21,7 @@ I’m Neha Prasad, a <i>Software Engineer</i> focused on <i>Frontend Development
 
 ---
 
-Previously   <a href="https://github.com/nehaaprasad">old-github-imp-🌟</a> (lost access due to 2FA issue)
+## Previously   <a href="https://github.com/nehaaprasad">old-github-imp-🌟</a> (lost access due to 2FA issue)
 
 
 <div align="center">
