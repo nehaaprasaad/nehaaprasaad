@@ -1,3 +1,7 @@
+### Previously
+<a href="https://github.com/nehaaprasad">old-github-imp-🌟</a> (lost access due to 2FA issue)
+
+
 <h1 align="center">Hi, I'm Neha Prasad 👋🍀</h1>
 <h3 align="center">Software Engineer • Frontend Developer • Open Source Contributor</h3>
 
@@ -20,10 +24,6 @@ I’m Neha Prasad, a <i>Software Engineer</i> focused on <i>Frontend Development
 - Outside coding, I enjoy **sleeping, badminton, and swimming**.
 
 ---
-
-## Previously
-<a href="https://github.com/nehaaprasad">old-github-imp-🌟</a> (lost access due to 2FA issue)
-
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/b378d7f2-4e3a-4410-a678-0a2e09ab0a9e" alt="Open source contribution" width="280" />
