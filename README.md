@@ -1,12 +1,16 @@
 ## IMP Previously
-old-github-very-important🌟🌟 (lost access due to 2FA issue)
-# Hi, I'm Neha Prasad 👋🍀
-### Software Engineer • Frontend Developer • Open Source Contributor
+<a href="https://github.com/nehaaprasad">old-github-very-important🌟🌟</a> (lost access due to 2FA issue)
 
-  Live Portfolio •
-  LinkedIn •
-  X •
-  Email
+<h1 align="center">Hi, I'm Neha Prasad 👋🍀</h1>
+<h3 align="center">Software Engineer • Frontend Developer • Open Source Contributor</h3>
+<p align="center">
+  <a href="https://nehaprasad.vercel.app/">Live Portfolio</a> •
+  <a href="https://www.linkedin.com/in/neha-prasad-92499821b/">LinkedIn</a> •
+  <a href="https://x.com/nehaaaa_6">X</a> •
+  <a href="mailto:nehaprasad27118@gmail.com">Email</a>
+</p>
+
+---
 
 ---
 ## About Me
