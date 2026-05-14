@@ -19,8 +19,8 @@ I'm Neha Prasad, a software engineer shipping AI agents and contributing to the 
 - Stack: Next.js, TypeScript, Python, FastAPI, LangGraph, LLMs
 - Focus: long-horizon agents, tool calling, streaming, and real-world reliability
 - Based in Mumbai — building for India's Digital Public Infrastructure
+- Open to remote contracts & full-time roles. If you need an AI agent built fast, I'm your person.
 
-Open to remote contracts & full-time roles. If you need an AI agent built fast, I'm your person.
 ---
 
   <img src="https://github.com/user-attachments/assets/b378d7f2-4e3a-4410-a678-0a2e09ab0a9e" alt="Open source contribution" width="280">
